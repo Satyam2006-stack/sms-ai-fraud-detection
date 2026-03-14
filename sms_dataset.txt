@@ -1,0 +1,12 @@
+spam,you won lottery claim prize
+spam,free recharge offer click link
+spam,urgent payment required now
+spam,winner claim reward now
+spam,verify your bank account immediately
+spam,click this link http://fake-prize.com
+ham,hello how are you
+ham,lets meet tomorrow
+ham,project meeting in class
+ham,thanks see you tomorrow
+ham,see you in college
+ham,call me when you reachsham,here is bill paymentcd "c:\users\asus\onedrive\desktop\sms_ai_project\" ; if ($?) { gcc sms_ai.c -o sms_ai } ; if ($?) { .\sms_ai }
